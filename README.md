@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
 <h3 align="center">Junior programmer</h3>
 
-<img src="https://imgtr.ee/image/hdQskm">
+<img src="https://imgtr.ee/images/2024/09/22/402e71fc285f982a2baadffe20c5a3ec.jpeg" alt="402e71fc285f982a2baadffe20c5a3ec.jpeg" border="0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulzx&label=Profile%20views&color=0e75b6&style=flat" alt="dulzx" /> </p>
 
