@@ -31,7 +31,7 @@
 <img src="https://komarev.com/ghpvc/?username=Dulzx&&style=flat-square" align="center" />
 </div>  
   
-
+<br>
 
 
 ### Connect With Me  
@@ -43,8 +43,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
+<br>
+  
+### Github Statics
 <img src="https://github-readme-stats.vercel.app/api?username=Dulzx&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
