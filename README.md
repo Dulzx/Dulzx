@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgtr.ee/images/2024/09/23/4635db13f3f44fae1baf538dde456590.png" align="center" style="width: 100%" />
+<img src="https://github.com/Dulzx/Dulzx/blob/main/dulz.png" align="center" style="width: 100%" />
 </div>  
   
 
