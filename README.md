@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am an Android pentester 👨‍💻 besides that I can edit videos 📱</div>  
+### <div align="center">I am an Android pentester 👨‍💻📱</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
