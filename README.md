@@ -1,14 +1,13 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[32m0xbit@github\x1b[0m
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[33m-------------------------\x1b[0m
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[34mOS: Linux Mint 20.3 x86_64\x1b[0m
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[36mShell: zsh 5.9\x1b[0m
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[35mPronouns: He/Him\x1b[0m
-⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀     \x1b[32mLocation: PH, Laguna\x1b[0m
-⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⡀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀     \x1b[33mLanguages: C/C++, Python, Asm x86-64, Javascript, Html/css\x1b[0m
-⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀     \x1b[34mLearning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardware Prototyping\x1b[0m
-⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀     \x1b[36mHobbies: Coding, Reading\x1b[0m
-⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀     \x1b[35mCommits: 5k\x1b[0m
-⠀⠀⠀⠀⠀⣿⣿⣿⣿⣶⣦⡀⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡆⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀     \x1b[32mStars: 500\x1b[0m
-⠀⠀⠀⠀⠀⣿⣿⡇⠀⢸⣿⣿⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡇⠀⠀⠀⠀⠀⢀⣼⣿⡿⠁⠀⠀⠀⠀⠀     \x1b[33mDiscord: 0xbitx\x1b[0m
-⠀⠀⠀⠀⠀⣿⣿⣇⣀⣸⣿⡿⠀⢸⣿⣇⡀⢀⣾⣿⠇⠀⣿⣿⣇⣀⣀⣀⠀⣠⣾⣿⣏⣀⣀⡀⠀⠀⠀⠀     \x1b[34mTwitter: 0xbit\x1b[0m
-⠀⠀⠀⠀⠀⠿⠿⠿⠿⠟⠛⠁⠀⠀⠛⠿⠿⠿⠟⠋⠀⠀⠿⠿⠿⠿⠿⠿⠰⠿⠿⠿⠿⠿⠿⠇⠀⠀⠀⠀      
+echo "0xbit@github"
+echo "-------------------------"
+echo "OS: Linux Mint 20.3 x86_64"
+echo "Shell: zsh 5.9"
+echo "Pronouns: He/Him"
+echo "Location: PH, Laguna"
+echo "Languages: C/C++, Python, Asm x86-64, Javascript, Html/css"
+echo "Learning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardware"
+echo "Hobbies: Coding, Reading"
+echo "Commits: 5k"
+echo "Stars: 500"
+echo "Discord: 0xbitx"
+echo "Twitter: 0xbit"
