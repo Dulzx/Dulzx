@@ -1,42 +1,14 @@
-
-```txt
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     0xbit@github
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     -------------------------
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     OS: Linux Mint 20.3 x86_64
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     Shell: zsh 5.9
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀     Pronouns: He/Him
-⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀      Location: PH, Laguna
-⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⡀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀     Languages: C/C++, Python, Asm x86-64, Javascript, Html/css, 
-⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀     Learning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardwar
-⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀     Hobbies: Coding, Reading
-⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀     Commits: 5k
-⠀⠀⠀⠀⠀⣿⣿⣿⣿⣶⣦⡀⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡆⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀     Stars: 500
-⠀⠀⠀⠀⠀⣿⣿⡇⠀⢸⣿⣿⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡇⠀⠀⠀⠀⠀⢀⣼⣿⡿⠁⠀⠀⠀⠀⠀     Discord: 0xbitx
-⠀⠀⠀⠀⠀⣿⣿⣇⣀⣸⣿⡿⠀⢸⣿⣇⡀⢀⣾⣿⠇⠀⣿⣿⣇⣀⣀⣀⠀⣠⣾⣿⣏⣀⣀⡀⠀⠀⠀⠀     Twitter: 0xbit
-⠀⠀⠀⠀⠀⠿⠿⠿⠿⠟⠛⠁⠀⠀⠛⠿⠿⠿⠟⠋⠀⠀⠿⠿⠿⠿⠿⠿⠰⠿⠿⠿⠿⠿⠿⠇⠀⠀⠀⠀     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡀⠀⠀⠀⣼⡟⠀⢀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⠟⠋⠀⠀⠀⢠⣿⠁⠀⠀⠙⠻⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣦⣄⠀⠀⢀⣿⠃⠀⠀⠀⣠⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠁⠀⣼⡏⠀⠀⠀⠈⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
-
-```
- &emsp; ![Profile Views](https://komarev.com/ghpvc/?username=0xbitx)
-
-```mermaid
-journey
-  title My Daily Life
-  section Morning Routine
-    Shower: 4: Me
-    Coffee: 8: Me
-  section School Time
-    Go to school: 3: Me
-    Morning Classes (Doing Personal Project): 8: Me
-    Afternoon Classes (Doing Personal Project): 8: Me
-  section Evening Routine
-    Go to park and code: 8: Me
-    Go home and code: 8: Me
-    Sleep: 5: Me
-
-```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[32m0xbit@github\x1b[0m
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[33m-------------------------\x1b[0m
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[34mOS: Linux Mint 20.3 x86_64\x1b[0m
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[36mShell: zsh 5.9\x1b[0m
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀     \x1b[35mPronouns: He/Him\x1b[0m
+⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀     \x1b[32mLocation: PH, Laguna\x1b[0m
+⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⡀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀     \x1b[33mLanguages: C/C++, Python, Asm x86-64, Javascript, Html/css\x1b[0m
+⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀     \x1b[34mLearning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardware Prototyping\x1b[0m
+⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀     \x1b[36mHobbies: Coding, Reading\x1b[0m
+⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀     \x1b[35mCommits: 5k\x1b[0m
+⠀⠀⠀⠀⠀⣿⣿⣿⣿⣶⣦⡀⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡆⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀     \x1b[32mStars: 500\x1b[0m
+⠀⠀⠀⠀⠀⣿⣿⡇⠀⢸⣿⣿⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡇⠀⠀⠀⠀⠀⢀⣼⣿⡿⠁⠀⠀⠀⠀⠀     \x1b[33mDiscord: 0xbitx\x1b[0m
+⠀⠀⠀⠀⠀⣿⣿⣇⣀⣸⣿⡿⠀⢸⣿⣇⡀⢀⣾⣿⠇⠀⣿⣿⣇⣀⣀⣀⠀⣠⣾⣿⣏⣀⣀⡀⠀⠀⠀⠀     \x1b[34mTwitter: 0xbit\x1b[0m
+⠀⠀⠀⠀⠀⠿⠿⠿⠿⠟⠛⠁⠀⠀⠛⠿⠿⠿⠟⠋⠀⠀⠿⠿⠿⠿⠿⠿⠰⠿⠿⠿⠿⠿⠿⠇⠀⠀⠀⠀      
