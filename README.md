@@ -24,7 +24,7 @@
 ```
 <div align="center">
     <img src="https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="Profile Details" width="100%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=dark" alt="Profile Details" width="100%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=blueberry" alt="Profile Details" width="100%"/>
     
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
