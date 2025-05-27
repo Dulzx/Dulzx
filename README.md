@@ -24,6 +24,8 @@
 ```
 <div align="center">
     <img src="https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="Profile Details" width="100%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=tokyonight" alt="Profile Details" width="100%"/>
+    
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dulzx&theme=transparent" alt="Repos per Language" style="max-width: 100%; width: 300px; margin: 5px;" />
