@@ -32,6 +32,6 @@
         <p align="center">
           <a href="https://github.com/Dulzx/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dulzx&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=141b23" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dulzx&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=141b23" alt="1999AZZAR :: Top Langs by commit">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dulzx&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff" alt="1999AZZAR :: Top Langs by commit">
           </a>
         </p>
