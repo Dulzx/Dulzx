@@ -29,11 +29,5 @@
         <a href="https://github.com/Dulzx/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulzx&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=141b23" alt="1999AZZAR :: overall Top Langs "></a>
       </p>
-        <p align="center">
-          <a href="https://github.com/Dulzx/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dulzx&amp;theme=github_dark&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dulzx&amp;theme=github_dark&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by commit">
-          </a>
-        </p>
 
 ![snake gif](https://github.com/Dulzx/Dulzx/blob/output/github-snake-dark.svg)
