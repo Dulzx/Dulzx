@@ -1,14 +1,14 @@
 
 ```csharp
-⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     0xbit@github
+⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     Dulzx@github
 ⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     -------------------------
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     OS: Linux Mint 20.3 x86_64
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     OS: Kali Linux 20.3 x86_64
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     Shell: zsh 5.9
 ⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀     Pronouns: He/Him
 ⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀      Location: PH, Laguna
-⠀⠀⠀⢀⣾⣿⣿⣿⣿⡀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀     Languages: C/C++, Python, Asm x86-64, Javascript, Html/css, 
-⠀⠀ ⣾⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀     Learning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardwar
-⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀     Hobbies: Coding, Reading
+⠀⠀⠀⢀⣾⣿⣿⣿⣿⡀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀     Languages: Android, Linux, Bash, Php, Html/css, 
+⠀⠀ ⣾⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀     Learning: Malware devmnt, Exploit devmnt, Code Obfuscation,
+⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀     Hobbies: Coding
 ⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀     Commits: 5k
 ⠀⠀⣿⣿⣿⣿⣶⣦⡀⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡆⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀     Stars: 500
 ⠀⠀⣿⣿⡇⠀⢸⣿⣿⠀⢸⣿⡇⠀⠀⢸⣿⡇⠀⣿⣿⡇⠀⠀⠀⠀⠀⢀⣼⣿⡿⠁⠀⠀⠀⠀⠀     Discord: 0xbitx
