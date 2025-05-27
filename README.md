@@ -27,8 +27,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=github_dark" alt="Profile Details" width="100%"/>
     
 <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
+        <a href="https://github.com/Dulzx/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulzx&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=141b23" alt="1999AZZAR :: overall Top Langs "></a>
       </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
