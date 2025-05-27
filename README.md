@@ -22,8 +22,13 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
 
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dulzx&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dulzx&theme=transparent) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dulzx&theme=transparent) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dulzx&theme=transparent&utcOffset=8)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=transparent" alt="Profile Details" width="100%"/>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dulzx&theme=transparent" alt="Repos per Language" style="max-width: 100%; width: 300px; margin: 5px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dulzx&theme=transparent" alt="Most Commit Language" style="max-width: 100%; width: 300px; margin: 5px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dulzx&theme=transparent" alt="Stats" style="max-width: 100%; width: 300px; margin: 5px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dulzx&theme=transparent&utcOffset=8" alt="Productive Time" style="max-width: 100%; width: 300px; margin: 5px;" />
+  </div>
+</div>
