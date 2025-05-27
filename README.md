@@ -23,7 +23,7 @@
 
 ```
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulzx&theme=transparent" alt="Profile Details" width="100%"/>
+   ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=dark)
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dulzx&theme=transparent" alt="Repos per Language" style="max-width: 100%; width: 300px; margin: 5px;" />
