@@ -35,3 +35,5 @@
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dulzx&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff" alt="1999AZZAR :: Top Langs by commit">
           </a>
         </p>
+
+![snake gif](https://github.com/Dulzx/Dulzx/blob/output/github-snake-dark.svg)
