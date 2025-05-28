@@ -22,16 +22,11 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
 
 ```
-<table>
-  <tr>
-    <td>
-      <img src="https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulzx&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&bg_color=141b23" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulzx&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&bg_color=141b23" width="48%">
+</p>
+
 
 <!-- Snake animation -->
 <p align="center">
