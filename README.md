@@ -23,11 +23,31 @@
 
 ```
 <div align="center">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="Profile Details" width="100%"/>
-    
-<p align="center">
-        <a href="https://github.com/Dulzx/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulzx&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true&amp;bg_color=141b23" alt="1999AZZAR :: overall Top Langs "></a>
-      </p>
 
-![snake gif](https://github.com/Dulzx/Dulzx/blob/output/github-snake-dark.svg)
+  <!-- Profile Stats -->
+  <img 
+    src="https://gh-readme-profile.vercel.app/api?username=Dulzx&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" 
+    alt="Profile Details" 
+    style="max-width: 100%; height: auto;" 
+  />
+
+  <!-- Spacer -->
+  <br><br>
+
+  <!-- Language Stats -->
+  <a href="https://github.com/Dulzx/">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulzx&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&bg_color=141b23" 
+      alt="Top Languages" 
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
+
+  <!-- Snake Contribution -->
+  <img 
+    src="https://github.com/Dulzx/Dulzx/blob/output/github-snake-dark.svg" 
+    alt="Snake animation" 
+    style="max-width: 100%; height: auto;"
+  />
+
+</div>
